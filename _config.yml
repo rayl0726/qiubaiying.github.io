@@ -18,7 +18,7 @@ sidebar-avatar: /img/tag.jpg      # use absolute URL, seeing it's used in both `
 
 # SNS settings
 RSS: false
-weibo_username:     17801098601
+weibo_username:     As5aSS1n
 zhihu_username:     250857264@qq.com
 github_username:    rayl0726
 #facebook_username:  baiying.qiu.7
@@ -77,8 +77,8 @@ kramdown:
 
 
 # Featured Tags
-featured-tags: false                    # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-tags: true                   # 是否使用首页标签
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
