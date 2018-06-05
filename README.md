@@ -1,4 +1,4 @@
-## 教程（转载，作者[BY])
+## 教程（转载，作者[BY](https://github.com/qiubaiying))
  
 > 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 。
 > 
@@ -7,8 +7,8 @@
 
 ## 致谢
 
-1. 博客模板是从[BY] (https://github.com/qiubaiying/qiubaiying.github.io)fork的，感谢这位朋友的教程。
-2. 这个模板是[BY]从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
+1. 博客模板是从[BY](https://github.com/qiubaiying/qiubaiying.github.io) fork的，感谢这位朋友的教程。
+2. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
 3. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 ## License
